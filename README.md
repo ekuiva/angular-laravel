@@ -20,6 +20,10 @@ npm install bootstrap@next
 ```
 ng serve -o
 ```
+- Atau menggunakan 
+```
+npm run ng serve -o
+```
 and run your `laravel` api by this command
 ```
 php artisan serve
